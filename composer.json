@@ -1,0 +1,13 @@
+{
+    "name": "admin/projeto-laravel",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Junior Ubarana",
+            "email": "elci.junior@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
